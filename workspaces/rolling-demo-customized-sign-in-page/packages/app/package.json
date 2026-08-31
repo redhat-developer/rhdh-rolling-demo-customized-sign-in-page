@@ -5,7 +5,7 @@
   "bundled": true,
   "repository": {
     "type": "git",
-    "url": "https://github.com/redhat-ai-dev/rolling-demo-customized-sign-in-page",
+    "url": "https://github.com/redhat-developer/rhdh-rolling-demo-customized-sign-in-page",
     "directory": "workspaces/rolling-demo-customized-sign-in-page/packages/app"
   },
   "backstage": {
